@@ -1,0 +1,10 @@
+//Please write a program in C++ that outputs: My barcode is 000
+//Use this code but please make some changes 
+#include <iostream>
+using namespace std;
+int main() {
+  
+    cout << "Hello World";
+
+    return 0;
+}
